@@ -1,7 +1,3 @@
 [
-   { "keys": ["alt+1"], "command": "open_browser", "args": {"keyPressed": "1"}},
-   { "keys": ["alt+2"], "command": "open_browser", "args": {"keyPressed": "2"}},
-   { "keys": ["alt+3"], "command": "open_browser", "args": {"keyPressed": "3"}},
-   { "keys": ["super+shift+j"], "command": "navigate_to_definition"},
    { "keys": ["super+shift+m"], "command": "dyn_make"}
 ]

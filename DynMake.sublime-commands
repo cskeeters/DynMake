@@ -1,6 +1,6 @@
 [
     {
-        "caption": "DynMake",
+        "caption": "DynMake: Select target to make",
         "command": "dyn_make"
     }
 ]
